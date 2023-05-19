@@ -36,7 +36,7 @@ The date column values were uneven aligned due to the fact that excel treated th
 ---
 Unaligned raw csv          |  Aligned csv data
 :-------------------------:|:-------------------------:
-![](https://github.com/Uzo-Hill/SQL_expense_analysis_project/blob/main/Unaligned%20raw%20csv%20data.PNG)  |  ![](https://github.com/Uzo-Hill/SQL_expense_analysis_project/blob/main/Aligned%20data%20using%20excel%20text-to-column.PNG)
+![](https://github.com/Uzo-Hill/MySQL_expense_analysis_project/blob/main/Unaligned%20raw%20csv%20data.PNG)  |  ![](https://github.com/Uzo-Hill/MySQL_expense_analysis_project/blob/main/Aligned%20data%20using%20excel%20text-to-column.PNG)
 ---
 
 ### Database and Table
